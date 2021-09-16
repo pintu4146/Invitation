@@ -3,12 +3,14 @@
 
  function myFunction() {
   // document.getElementsByClassName('btn')[0].ur="hey";
-  window.location.href="https://www.facebook.com/naturecottagebhopal/";
+  window.location.href="https://www.facebook.com/mahokakerwa/";
 }
 function mapFunction()
 {
-  window.location.href="https://www.google.com/maps/dir/23.1713234,77.4782782/Nature+Cottage,+to,+Barkhedi+Kalan,+National+Law+Institute+University,+Bhopal,+Madhya+Pradesh/@23.1961711,77.3853167,13z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x397c5cc60a4c7d99:0xf59e6a097477416c!2m2!1d77.3682664!2d23.1985664";
+  window.location.href="https://maps.app.goo.gl/2prMaJCikqbbN2D56";
 }
+
+
 var canvas = document.getElementById("canvas");
 var ctx = canvas.getContext("2d"),
     cw = canvas.width,

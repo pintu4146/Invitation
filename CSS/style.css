@@ -81,6 +81,7 @@ text-align: center;
 #rcHotelPic{
   max-width: 100%;
   height: auto;
+  border-radius: 5px;
 }
 .noAL{
   text-align: center;
