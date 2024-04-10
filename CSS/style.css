@@ -30,6 +30,7 @@ background-color: #beebe9;
 position: relative;
 width: 100%; /* Full width */
     height: 400px; 
+    
 }
 #icon{
       /* padding-right: 300%; */
@@ -39,7 +40,7 @@ width: 100%; /* Full width */
      float: left;
 }
 .h1 h1{
-  margin-top: 0;
+  margin-top: 20px;
 font-style: normal;
 font-weight:bold;
   margin: 0;
@@ -47,7 +48,7 @@ font-weight:bold;
   font-size:150%;
   color:
 text-align: center;
-top:0;
+
 }
 .h1 h5{
   margin-top: 0;
@@ -148,4 +149,7 @@ background-color: #ecfcff;
 }
 #intro {
   margin-top: 8rem;
+}
+h6{
+  margin-top: 1rem;
 }
