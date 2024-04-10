@@ -3,11 +3,11 @@
 
  function myFunction() {
   // document.getElementsByClassName('btn')[0].ur="hey";
-  window.location.href="https://www.facebook.com/mahokakerwa/";
+  window.location.href="https://forms.gle/BYYxF7tNBbFg1zkr7";
 }
 function mapFunction()
 {
-  window.location.href="https://maps.app.goo.gl/2prMaJCikqbbN2D56";
+  window.location.href="https://maps.app.goo.gl/zvEzgn5ndUoeywiP7";
 }
 
 

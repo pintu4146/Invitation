@@ -1,8 +1,10 @@
 body{
 
-  margin: 0;
-  text-align: center;
-  font-family: 'Merriweather', serif;
+  body {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 20px;
+    color: #333333;
+}
 }
 
 #sprinklers h1 {
@@ -23,9 +25,11 @@ canvas {
 .top{
 background-color: #beebe9;
     margin: 0;
-    margin-top: 0;
+    margin-top: 20px;
     text-align: center;
 position: relative;
+width: 100%; /* Full width */
+    height: 400px; 
 }
 #icon{
       /* padding-right: 300%; */
@@ -40,7 +44,7 @@ font-style: normal;
 font-weight:bold;
   margin: 0;
   font-family: 'Sacramento', cursive;
-  font-size:400%;
+  font-size:150%;
   color:
 text-align: center;
 top:0;
@@ -119,4 +123,29 @@ text-align: center;
 
 margin-top: 0;
 background-color: #ecfcff;
+}
+
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+
+
+.image-placeholder {
+  width: 80px; /* Adjust the width as needed */
+  height: 80px; /* Adjust the height as needed */
+  background-color: #300e70; /* Placeholder color */
+}
+
+.left {
+  margin-right: auto; /* Pushes to the left */
+}
+
+.right {
+  margin-left: 0; /* Pushes to the right */
+}
+#intro {
+  margin-top: 8rem;
 }
